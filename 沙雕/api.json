@@ -1,7 +1,7 @@
 {
   "spider": "./xiayespider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
-  "logo": "./lib/jueson.jpg",
+  "logo": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/jueson.jpg",
   "sites": [
     {
       "key": "jueson",
@@ -278,7 +278,7 @@
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
       "name": "淘片",
       "type": 0,
-      "api": "./lib/apiv678xml.html"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv678xml.html"
     },
     {
       "key": "萌米",
@@ -484,26 +484,6 @@
       "name": "虾米蓝光",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
-    }
-  ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./lib/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "./lib/user_result.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "rules": [
