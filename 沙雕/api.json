@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/xiayespider.jar",
+  "spider": "./xiayespider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
   "logo": "./lib/jueson.jpg",
   "sites": [
