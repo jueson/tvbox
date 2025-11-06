@@ -5,7 +5,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [{
       "key": "Bili",
-      "name": "哔哔",
+      "name": "哔站",
       "type": 3,
       "api": "csp_Bili",
       "style": {
