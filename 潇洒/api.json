@@ -1,5 +1,5 @@
 {
-  "spider": "./e9d6ebc64c6dee0a01f13f505ef54c1d.txt;md5;e9d6ebc64c6dee0a01f13f505ef54c1d",
+  "spider": "./lib/e9d6ebc64c6dee0a01f13f505ef54c1d.txt;md5;e9d6ebc64c6dee0a01f13f505ef54c1d",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -186,7 +186,7 @@
       "quickSearch": 1,
       "api": "csp_AppQi",
       "ext": {
-        "site": "./lib/1.json",
+        "site": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/1.json",
         "dataKey": "AAdgrdghjfgswerA",
         "dataIv": "AAdgrdghjfgswerA"
       }
@@ -235,7 +235,7 @@
       "quickSearch": 1,
       "api": "csp_AppQi",
       "ext": {
-        "site": "./lib/2.txt",
+        "site": "./lib/2587.txt",
         "dataKey": "staraugust123456",
         "dataIv": "staraugust123456",
         "version": "120"
@@ -320,7 +320,7 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "./lib/1.txt",
+        "site": "./lib/1801.txt",
         "dataKey": "PoiUytRedFghjklm",
         "dataIv": "PoiUytRedFghjklm"
       }
@@ -497,7 +497,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/BLSP.json",
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLSP.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -505,28 +505,28 @@
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/TXSP.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/YKSP.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/MGSP.js"
     },
     {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/AQY.js"
     },
     {
@@ -715,7 +715,7 @@
       "key": "双星",
       "name": "双星｜4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/SX.js",
       "style": {
         "type": "list"
@@ -725,7 +725,7 @@
       "key": "人人",
       "name": "人人｜4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/RRDYW.js",
       "style": {
         "type": "list"
@@ -735,7 +735,7 @@
       "key": "星芽短剧",
       "name": "星芽｜短剧",
       "type": 3,
-      "api": "./lib/XYDJ.py",
+      "api": "./lib/apiv1799XYDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -745,7 +745,7 @@
       "key": "甜圈短剧",
       "name": "甜圈｜短剧",
       "type": 3,
-      "api": "./lib/TQDJ.py",
+      "api": "./lib/apiv1821TQDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -755,7 +755,7 @@
       "key": "锦鲤短剧",
       "name": "锦鲤｜短剧",
       "type": 3,
-      "api": "./lib/JLDJ.py",
+      "api": "./lib/apiv1843JLDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -765,7 +765,7 @@
       "key": "剧王短剧",
       "name": "剧王｜短剧",
       "type": 3,
-      "api": "./lib/JWDJ.py",
+      "api": "./lib/apiv1865JWDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -776,7 +776,7 @@
       "name": "番茄｜短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/FQDJ.json"
+      "ext": "./lib/FQDJ.json"
     },
     {
       "key": "天翼影视",
@@ -894,7 +894,7 @@
       "name": "明星｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MXYS.json"
+      "ext": "./lib/MXYS.json"
     },
     {
       "key": "面包影视",
@@ -921,8 +921,8 @@
       "key": "采集之王",
       "name": "采集｜合集",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"
+      "api": "./lib/apiv1259drpy2.min.js",
+      "ext": "./lib/CJJT.json"
     },
     {
       "key": "1905",
@@ -947,21 +947,21 @@
       "key": "56动漫",
       "name": "56｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/56DM.js"
     },
     {
       "key": "Anime1",
       "name": "A1｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/Anime1.js"
     },
     {
       "key": "NT动漫",
       "name": "NT｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/NTDM.js"
     },
     {
@@ -1097,62 +1097,62 @@
       "name": "巴士｜动漫",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/json/bsdm.json"
+      "ext": "./lib/bsdm.json"
     },
     {
       "key": "好看动漫",
       "name": "好看｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/HKDM.js"
     },
     {
       "key": "花子动漫",
       "name": "花子｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/HZDM.js"
     },
     {
       "key": "动画片",
       "name": "动画片｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/DHPDQ.js"
     },
     {
       "key": "爱动漫",
       "name": "爱动漫｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/ADM.js"
     },
     {
       "key": "路漫漫",
       "name": "路漫漫｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/LMM.js"
     },
     {
       "key": "动漫岛",
       "name": "动漫岛｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/DMD.js"
     },
     {
       "key": "去看吧",
       "name": "去看吧｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/QKB.js"
     },
     {
       "key": "异世界",
       "name": "异世界｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/apiv1259drpy2.min.js",
       "ext": "./lib/YSJ.js"
     },
     {
@@ -1469,13 +1469,13 @@
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
-      "api": "./lib/WLZB.py"
+      "api": "./lib/apiv3539WLZB.py"
     },
     {
       "key": "哔哩直播",
       "name": "哔哩｜直播",
       "type": 3,
-      "api": "./lib/BLZB.py"
+      "api": "./lib/apiv3553BLZB.py"
     },
     {
       "key": "哔哩合集",
@@ -1491,7 +1491,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/哔哩合集.json",
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/哔哩合集.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -1505,7 +1505,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLYCH.json"
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLYCH.json"
       },
       "style": {
         "type": "rect",
@@ -1522,7 +1522,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLTS.json"
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLTS.json"
       },
       "style": {
         "type": "rect",
@@ -1539,7 +1539,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLXS.json"
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLXS.json"
       },
       "style": {
         "type": "rect",
@@ -1556,7 +1556,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLXP.json"
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLXP.json"
       },
       "style": {
         "type": "rect",
@@ -1573,7 +1573,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/BLXQ.json"
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/BLXQ.json"
       },
       "style": {
         "type": "rect",
