@@ -1,7 +1,7 @@
 {
-  "spider": "./xiayespider.jar",
+  "spider":"./lib/xiayespider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
-  "logo": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/jueson.jpg",
+  "logo": "./lib/jueson.jpg",
   "sites": [
     {
       "key": "jueson",
@@ -28,8 +28,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/bili.json",
-      "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
+      "ext":"./lib/bili.json",
+      "jar":"./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
     },
     {
       "key": "YGP",
@@ -190,7 +190,7 @@
       "name": "3影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar":"./lib/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "playerType": "2",
       "ext": {
         "主页url": "https://www.03yy.co",
@@ -215,8 +215,8 @@
       "key": "drpy_js_优酷",
       "name": "优酷",
       "type": 3,
-      "api": "./lib/apiv501drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api":"./lib/apiv501apiv501drpy2.min.js",
+      "ext":"./lib/优酷.js"
     },
     {
       "key": "暴风",
@@ -248,8 +248,8 @@
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍",
       "type": 3,
-      "api": "./lib/apiv501drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api":"./lib/apiv501apiv501drpy2.min.js",
+      "ext":"./lib/奇珍异兽.js"
     },
     {
       "key": "saohuo",
@@ -259,7 +259,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "playerType": "2",
-      "jar": "./lib/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar":"./lib/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -278,7 +278,7 @@
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
       "name": "淘片",
       "type": 0,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv678xml.html"
+      "api": "./lib/apiv678apiv678xml.html"
     },
     {
       "key": "萌米",
@@ -289,7 +289,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==",
-      "jar": "./lib/fan706.txt"
+      "jar":"./lib/fan706.txt"
     },
     {
       "key": "虎牙资源",
