@@ -1,3 +1,6 @@
+clan://localhost/tvbox/沙雕20251106/沙雕20251106.json
+
+
 {
   "spider": "./lib/41edad38ef7c08042154d8f668e47957.txt;md5;41edad38ef7c08042154d8f668e47957",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -1124,7 +1127,7 @@
       "key": "爱动漫",
       "name": "爱动漫｜动漫",
       "type": 3,
-      "api": "./lib/apiv2749drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/ADM.js"
     },
     {
