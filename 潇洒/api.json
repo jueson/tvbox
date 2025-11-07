@@ -37,6 +37,17 @@
       "searchable": 0
     },
     {
+      "key": "ffBBB",
+      "name": "哔站",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/bili.json",
+      "jar":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
+    },
+    {
       "key": "热播影视",
       "name": "热播｜APP",
       "type": 3,
