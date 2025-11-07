@@ -1,4 +1,3 @@
-
 {
   "spider": "./lib/41edad38ef7c08042154d8f668e47957.txt;md5;41edad38ef7c08042154d8f668e47957",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -773,13 +772,6 @@
       "filterable": 1
     },
     {
-      "key": "番茄短剧",
-      "name": "番茄｜短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/FQDJ.json"
-    },
-    {
       "key": "天翼影视",
       "name": "天翼｜影视",
       "type": 1,
@@ -889,13 +881,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "明星影视",
-      "name": "明星｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/MXYS.json"
     },
     {
       "key": "面包影视",
@@ -1092,13 +1077,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/YHDM.json"
-    },
-    {
-      "key": "巴士动漫",
-      "name": "巴士｜动漫",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "./lib/bsdm.json"
     },
     {
       "key": "好看动漫",
